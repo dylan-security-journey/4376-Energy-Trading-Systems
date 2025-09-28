@@ -25,15 +25,22 @@
 ## Slide 4: Production – Consumption
 - Core cycle: producing → consuming energy  
 
+<img width="1054" height="653" alt="image" src="https://github.com/user-attachments/assets/d75be6a8-83c0-4680-9f4d-1d5d34f662a1" />
+
+
 ---
 
 ## Slide 5: Physical Assets
 - Assets are the foundation of the industry  
 
+<img width="967" height="673" alt="image" src="https://github.com/user-attachments/assets/0d0dc9fe-3808-45c7-8290-d7016a8dc2d0" />
+
 ---
 
 ## Slide 6: Logistical Physical Assets
 - **Processing, Compression, Storage, Interconnects**  
+
+<img width="1170" height="695" alt="image" src="https://github.com/user-attachments/assets/133b735a-7f13-4a91-8982-883643eb2f69" />
 
 ---
 
@@ -42,6 +49,8 @@
 - Exploration → seismic, magnetometers, gravimeters  
 - Extraction → well drilling (onshore/offshore)  
 - Production → wellhead, Christmas tree, horse head pump  
+
+
 
 **Demand – Consumption Assets**  
 - City gates  
